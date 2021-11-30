@@ -1,0 +1,13 @@
+{
+  "name": "yacd",
+  "description": "yet another clash dashboard",
+  "logo": "https://raw.githubusercontent.com/ciiiii/yacd/master/assets/yacd-128.png",
+  "repository": "https://github.com/ciiiii/yacd",
+  "keywords": ["clash", "dashboard", "react", "vite"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static.git"
+    }
+  ],
+  "success_url": "/"
+}

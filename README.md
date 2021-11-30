@@ -8,6 +8,10 @@ The site [http://yacd.haishan.me](http://yacd.haishan.me) is served with HTTP no
 
 [Docker image](https://hub.docker.com/r/haishanh/yacd) is also available as `haishanh/yacd`.
 
+## Deployment
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Development
 
 ```sh
